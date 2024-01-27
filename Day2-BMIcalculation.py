@@ -1,5 +1,5 @@
 height = input("Enter your height: ")
-weight = input("Enter your height")
+weight = input("Enter your height: ")
 
 height=float(height)
 weight=float(weight)
@@ -8,7 +8,7 @@ print(bmi)
 
 Input
 Enter your height: 1.65
-72
+Enter your height: 72
 
 Output
 26
